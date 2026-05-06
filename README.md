@@ -150,10 +150,5 @@ You can test the rate limiting by sending multiple requests in rapid succession:
 for i in {1..150}; do curl -X POST http://localhost:3000/api/auth/register; done
 ```
 
-## License
-
-ISC
-
 ## Author
-
-Your Name/Organization
+ARCHI MISHRA
